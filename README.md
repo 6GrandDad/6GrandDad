@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm 6GrandDad 👋
 
-<!--
-**6GrandDad/6GrandDad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer who builds random (usually boring) stuff in my free time.
 
-Here are some ideas to get you started:
+*  Developer who enjoys experimenting with different ideas
+*  I mostly make small projects and tools when I have time
+*  Originally from Florida
+*  Not super active, but I still build things when I can
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Top Languages
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=6GrandDad\&langs_count=8\&theme=radical\&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+⭐ Thanks for stopping by!
